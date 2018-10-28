@@ -8,7 +8,7 @@ The application would track books via ISBN. Author, title, page count, cover, et
 
 **Project Title:** MyPersonalLibrary
 
-**Project Output:** An organized list of books and detailed information of each book. [See figure1.jpg](Files-or-Images-Referenced).
+**Project Output:** An organized list of books and detailed information of each book. [See figure1.jpg](files-or-images-referenced).
 
 **Project Input:** Users will enter the reletive information about the books they want to keep record of.
 
