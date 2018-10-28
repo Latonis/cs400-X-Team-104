@@ -12,7 +12,7 @@
        * GitHub username 3: rememberNeverland      name 3: Heather Jia
        * GitHub username 4: fionalee913      name 4: Fiona Lee
    * When did you complete this exercise? October 28, 2018 starting at 5:00pm and ending at 6:40pm, in the CS building.
-   * How long did it take your team to complete this exercise? 
+   * How long did it take your team to complete this exercise? 100 minutes in total.
 
 ## Table of Contents
 
