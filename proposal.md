@@ -8,11 +8,11 @@ The application would track books via ISBN. Author, title, page count, cover, et
 
 Project Title: MyPersonalLibrary
 
-Project Output: Describe the output your program will produce.  Include and example format of the output produced.
+Project Output: An organized list of books and detailed information of each book.
 
-Project Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+Project Input: Users will enter the reletive information about the books they want to keep record of.
 
-Project User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+Project User Interface: We can have interfaces like Book class and Booklist class. Book class stores fields of detailed information about one book, like title, author, ISBN and genre. Booklist class is for organization of a list of books. 
 
 Project Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
