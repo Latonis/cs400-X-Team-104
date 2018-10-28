@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: latonis      name 1: Jacob Latonis
        * GitHub username 2: fedosky      name 2: Andrew Fedosky
-       * GitHub username 3:       name 3:
+       * GitHub username 3: rememberNeverland      name 3: Heather Jia
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
