@@ -14,7 +14,7 @@ We will have open discussions about what tasks people would prefer to take on. I
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will have weekly discussion for each person's part, so all members can report and understand the tasks progress.
 
 ## How will will communicate difficulties with a task assigned to us
 
