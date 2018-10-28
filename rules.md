@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 104 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will have open discussions about what tasks people would prefer to take on. In the event that no one wants to take a task on, we will assign it to the person with the most experience in that particular area.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
