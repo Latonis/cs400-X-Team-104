@@ -12,7 +12,7 @@ and missed deadlines.
 
 We will have open discussions about what tasks people would prefer to take on. In the event that no one wants to take a task on, we will assign it to the person with the most experience in that particular area.
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 
 We will have weekly discussion for each person's part, so all members can report and understand the tasks progress.
 
@@ -21,7 +21,7 @@ We will discuss it immediately and solve it.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Teammates will check in on each other as time progresses, and if a part has not been completed yet, we will contact them to ensure no one is struggling or needs help. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
