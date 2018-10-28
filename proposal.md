@@ -18,4 +18,4 @@ The application would track books via ISBN. Author, title, page count, cover, et
 
 
 ### Files or Images Referenced
-![Figure1](latonis.github.com/cs400-X-Team-104/figure1.jpg)
+![Figure1](https://github.com/Latonis/cs400-X-Team-104/blob/master/figure1.jpg)
