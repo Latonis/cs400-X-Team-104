@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# xteam-exercise-2: https://github.com/Latonis/cs400-X-Team-104
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,7 +7,7 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
+       * GitHub username 1: latonis      name 1: Jacob Latonis
        * GitHub username 2:       name 2:
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
@@ -21,6 +21,7 @@
 2. TODO.md - contains instructions for what to do for this assignment
 3. rules.md - documents the rules for your team
 4. proposal.md - a project proposal written by your team
+5. figure1.jpg - mockup of program
 
 ## Files to Submit
 
