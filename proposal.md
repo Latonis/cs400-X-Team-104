@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 104 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -12,8 +12,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Grading: To earn full credit, your team's proposal must include:
 
-* (md) documentation: [this file] describing purpose and use of your program
-
+* (md) documentation: MyPersonalLibrary stores your books collection, information about each book, user entered details, and time spent reading each book.
 * Description of a program that has:
 
   ** a main Java program class in a file named Main.java
@@ -22,11 +21,6 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
   
   ** comprehensive testing of individual units
   
- Caution: You are not being asked to implement this program, at least not yet. 
- We just want your group to make a proposal or pitch for your program.
- 
- Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
-
 ## Problem Description
 
 Briefly describe a problem that your team would like to solve.  
