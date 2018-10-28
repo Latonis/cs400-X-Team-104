@@ -24,7 +24,8 @@ We will discuss it immediately and solve it.
 Teammates will check in on each other as time progresses, and if a part has not been completed yet, we will contact them to ensure no one is struggling or needs help. 
 
 
-## Add any other rules that your team establishes to help each other work effectively together
+## How will we share study materials with team members
+We will communicate by texts and share files or notes on github if necessary.
 
 
 
