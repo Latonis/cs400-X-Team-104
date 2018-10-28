@@ -10,11 +10,11 @@ The application would track books via ISBN. Author, title, page count, cover, et
 
 **Project Output:** An organized list of books and detailed information of each book. [See figure1.jpg](#Files-or-Images-Referenced).
 
-**Project Input:** Users will enter the reletive information about the books they want to keep record of.
+**Project Input:** Users will enter the relevant information about the books they want to keep a record of.
 
 **Project User Interface:** Users can see a homepage with a search bar, books list and an area to enter new books. 
 
-**Project Types List:** We can have Book class and Booklist class. Book class stores fields of detailed information about one book, like title, author, ISBN and genre. Booklist class is for organization of a list of books. 
+**Project Types List:** We can have Book class and Booklist class. Book class stores fields of detailed information about one book, like title, author, ISBN and genre. BookList class is for organization of a list of books. 
 
 
 ### Files or Images Referenced
