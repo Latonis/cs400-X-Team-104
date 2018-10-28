@@ -1,10 +1,10 @@
 # X-Team 104 Project Proposal: MyPersonalLibrary
   
-## Problem Description
+## Project Description
 
 People who love to read, really love to read. Sometimes it can be hard to keep track of what books you've already read, which ones you have yet to read, etc. Wouldn't it help to be able to track your reading activity in a more dynamic way? A personal library application could help solve that.
 
-The app would track books via ISBN. Author, title, page count, cover, etc. would all be listed. Also, status updates on read, not read, how much progress they've made, etc.
+The application would track books via ISBN. Author, title, page count, cover, etc. would all be listed. Also, status updates on read, not read, how much progress they've made, etc.
 
 Project Title: MyPersonalLibrary
 
