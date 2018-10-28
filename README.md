@@ -11,7 +11,6 @@
        * GitHub username 2: fedosky      name 2: Andrew Fedosky
        * GitHub username 3: rememberNeverland      name 3: Heather Jia
        * GitHub username 4: fionalee913      name 4: Fiona Lee
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 
